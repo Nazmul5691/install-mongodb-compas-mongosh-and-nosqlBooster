@@ -5,7 +5,6 @@
 
 // mongodb graphical user interface
 
-
 1. chrome -> mongodb download -> community server download
 2. select windos64
 3. start install -> next ->  complete -> next -> next -> install
@@ -37,8 +36,7 @@
 // use another graphical user interface
 
 // chosse studio 3t or nosqlBooster
-
-// nosqlBooster
+// using nosqlBooster
 1. google -> nosqlBooster -> download -> select windos - > download
 2. open and install 
 3. open it after install  -> connect -> new collection -> test collection -> ok -> name =localhost -> save and connect
