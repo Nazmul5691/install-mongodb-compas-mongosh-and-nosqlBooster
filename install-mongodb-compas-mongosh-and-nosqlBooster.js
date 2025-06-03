@@ -1,3 +1,6 @@
+// please follow the steps of readme file
+
+
 // install mongodb compass mongosh and nosqlBooster
 
 // mongodb graphical user interface
