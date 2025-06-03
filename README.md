@@ -2,6 +2,7 @@
 
 This guide helps you install and work with MongoDB using graphical interfaces (MongoDB Compass, NoSQLBooster) and the command line (mongosh).
 
+
 ---
 
 ## 📦 Installing MongoDB Community Server (with Compass & mongosh)
