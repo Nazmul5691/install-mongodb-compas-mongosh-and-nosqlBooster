@@ -85,7 +85,8 @@ You can also use third-party tools like **NoSQLBooster** or **Studio 3T**.
 
 ---
 
-## ✅ You're Ready!
+## ✅ You're Ready Now!
+
 
 You now have multiple ways to interact with MongoDB:
 - MongoDB Compass (GUI)
