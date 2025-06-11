@@ -27,8 +27,8 @@ This guide helps you install and work with MongoDB using graphical interfaces (M
    - Run basic commands:
 
      ```bash
-     show dbs                # View all databases
-     use practice            # Create/use a database named 'practice'
+     show dbs                                  # View all databases
+     use practice                              # Create/use a database named 'practice'
      db.createCollection("test")               # Create a collection
      db.getCollection("test").insertOne({ name: "trying to learn mongodb" })  # Insert document
      db.getCollection("test").find()           # Query documents
