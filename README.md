@@ -93,4 +93,5 @@ You now have multiple ways to interact with MongoDB:
 - mongosh via Compass or CMD
 - NoSQLBooster (GUI)
 
+
 Happy coding with MongoDB!
