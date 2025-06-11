@@ -1,6 +1,5 @@
 // please follow the steps of readme file
 
-
 // install mongodb compass mongosh and nosqlBooster
 
 // mongodb graphical user interface
@@ -12,9 +11,9 @@
 5. connect
 6. open mongosh editor   -> show dbs -> show database
 7. use practice  -> create database
-8. db.createCollection("test")  -> create collection
+8. db.createCollection("test")    -> create collection
 9. db.getCollection("test").insertOne({name: "trying to learn mongodb"})
-10. db.getCollection("test").find()    -> get data
+10.db.getCollection("test").find()    -> get data
 
 
 
